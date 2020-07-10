@@ -10,7 +10,7 @@
 
 
 - 👨🏼‍💻 I have spent a decade working with [Eko](https://eko.in), a startup back then,
-  - building technology from the ground-up
+  - building technology from scratch
   - hacking solutions
   - automating processes
   - building a financial app framework to automate designing financial products
