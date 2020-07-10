@@ -8,6 +8,7 @@
 
 <h3 align="center">I'm a polyglot developer with an affinity for clean (architecture & UI) design.</h3>
 
+---
 
 - 👨🏼‍💻 I have spent a decade working with [Eko](https://eko.in), a startup back then,
   - building technology from scratch
