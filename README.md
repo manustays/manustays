@@ -11,11 +11,11 @@
 ---
 
 - 💼 I have spent a decade working with [Eko](https://eko.in), a startup back then,
-  - building technology from scratch
+  - building technology & product from scratch
   - hacking solutions
   - automating processes
   - building a financial app framework to automate designing financial products
-  - working as an architect, a developer & a designer.
+  - working as an **architect**, a **developer** & a **designer**.
 - 💬 Ask me about: `Javascript`, `Android`, `PWAs`, `Node.js`, `Python`, `Perl`, `Java`, `Polymer`, `architecture`, `microservices`, `automation`, `technology`, `gadgets`
 - 🌱 I’m currently learning: `Blockchain`, `React Native`, `Flutter`, `GraphQL`, ... ...
 
