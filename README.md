@@ -15,8 +15,8 @@
   - automating processes
   - building a financial app framework to automate designing financial products
   - working as an architect, a developer & a designer.
-- 🌱 I’m currently learning Blockchain, React Native, Flutter, GraphQL, ... ...
-- 💬 Ask me about Javascript, Android, PWAs, Node.js, Polymer, Architecture, Microservices, Python, Perl, Java, Automation
+- 🌱 I’m currently learning: Blockchain, React Native, Flutter, GraphQL, ... ...
+- 💬 Ask me about: Javascript, Android, PWAs, Node.js, Polymer, Architecture, Microservices, Python, Perl, Java, Automation
 
 
 <!--
