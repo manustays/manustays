@@ -6,7 +6,7 @@
   <a href="https://abhi.page" target="_blank"><img src="https://img.shields.io/badge/🌐-abhi.page-blueviolet"/></a>
 </p>
 
-<h3 align="center">I'm a polyglot developer with an affinity for clean (architecture & UI) design.</h3>
+<h3 align="center">I'm a polyglot developer.  I have an affinity for efficient architecture & clean design.</h3>
 
 ---
 
