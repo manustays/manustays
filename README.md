@@ -16,9 +16,14 @@
   - automating processes
   - building a financial app framework to automate designing financial products
   - working as an **architect**, a **developer** & a **designer**.
-  - most of my work is closed-source but I have started many open-source initiatives at [Eko](https://github.com/ekoindia)
+  - most of my [work](https://www.linkedin.com/in/abhiweb) is closed-source but I have started [open-source initiatives at Eko](https://github.com/ekoindia)
 - 💬 Ask me about: `Javascript`, `Android`, `PWAs`, `Node.js`, `Python`, `Perl`, `Java`, `Polymer`, `architecture`, `microservices`, `automation`, `technology`, `gadgets`
 - 🌱 I’m currently learning: `Blockchain`, `React Native`, `Flutter`, `GraphQL`, ... ...
+
+
+<!--
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=manustays.manustays)
+-->
 
 <!--
 **manustays/manustays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
