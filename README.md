@@ -1,9 +1,9 @@
 <h2 align="center">Hi there 👋🏼, I'm Abhishek</h2>
 
 <p align="center">
+  <a href="https://abhi.page" target="_blank"><img src="https://img.shields.io/badge/🌐-abhi.page-blueviolet"/></a>
   <a href="https://www.linkedin.com/in/abhiweb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-abhiweb-2867B2"/></a>
   <a href="https://twitter.com/abhiweb" target="_blank"><img src="https://img.shields.io/badge/Twitter-@abhiweb-1DA1F2"/></a>
-  <a href="https://abhi.page" target="_blank"><img src="https://img.shields.io/badge/🌐-abhi.page-blueviolet"/></a>
 </p>
 
 <h3 align="center">I'm a polyglot developer.  I ♥ efficient architecture & clean design.</h3>
