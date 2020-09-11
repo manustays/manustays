@@ -4,7 +4,7 @@
   <a href="https://abhi.page" target="_blank"><img src="https://img.shields.io/badge/🌐-abhi.page-blueviolet"/></a>
   <a href="https://stackshare.io/abhiweb/my-stack" target="_blank"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"/></a>
   <a href="https://www.linkedin.com/in/abhiweb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-abhiweb-2867B2"/></a>
-  <a href="https://twitter.com/abhiweb" target="_blank"><img src="https://img.shields.io/badge/Twitter-@abhiweb-1DA1F2"/></a>
+  <!-- a href="https://twitter.com/abhiweb" target="_blank"><img src="https://img.shields.io/badge/Twitter-@abhiweb-1DA1F2"/></a -->
 </p>
 
 <h3 align="center">I'm a polyglot developer.  I ♥ efficient architecture & clean design.</h3>
