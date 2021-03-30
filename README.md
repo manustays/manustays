@@ -7,14 +7,13 @@
   <!-- a href="https://twitter.com/abhiweb" target="_blank"><img src="https://img.shields.io/badge/Twitter-@abhiweb-1DA1F2"/></a -->
 </p>
 
-<h3 align="center">I'm a polyglot developer.  I ♥ efficient architecture & clean design.</h3>
+<h3 align="center">Solution Architect | Polyglot Programmer | Technology Enthusiast</h3>
 
 ---
 
 - 💼 I have spent a decade working with [Eko](https://eko.in), a startup back then,
-  - working as an **architect**, a **developer** & a UX **designer**.
+  - working as a technology **architect**, a fullstack **developer** & an amateur UX **designer**.
   - building technology & products from scratch.
-  - hacking solutions with limited resources.
   - automating processes.
   - building a financial app framework to automate designing financial products.
   - most of my [**work**](https://www.linkedin.com/in/abhiweb) is closed-source but I have started [open-source initiatives at Eko](https://github.com/ekoindia).
